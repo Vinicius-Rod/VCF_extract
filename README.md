@@ -1,7 +1,7 @@
 # VCF_extract
 Extrair variantes de arquivo VCF
 
-Extrair de outra forma
+
 
 ```python
 def extrair_genotipos(vcf_file, posicoes_alvo):
